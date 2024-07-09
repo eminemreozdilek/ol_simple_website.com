@@ -370,7 +370,7 @@ ul.email li i {
 /** banner_main **/
 
 #top_section {
-     background-image: url('../images/banner.jpg');
+     background-image: url('../images/banner.png');
      background-size: cover;
      background-repeat: no-repeat;
      padding-top: 120px;
@@ -540,7 +540,7 @@ ul.email li i {
 /** about **/
 
 .about {
-     background: url(../images/about_bg.jpg);
+     background: url(../images/about.png);
      background-position: center;
      background-repeat: no-repeat;
      height: 100vh;
